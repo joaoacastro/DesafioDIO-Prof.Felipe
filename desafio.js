@@ -20,4 +20,4 @@ if (xp <= 1000){
     nivel = "Radiante";
 }
 
-console.log(`O heroi de nome ${heroi} está com xp de ${xp}, portanto ele está no nível ${nivel}.`)
+console.log(`O heroi de nome ${heroi} está com ${xp} de xp, portanto ele está no nível ${nivel}.`)
